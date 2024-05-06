@@ -1,6 +1,6 @@
 ## Hey you @
 # I'm [Jarom kepri](https://www.linkedin.com/in/jaromkepri/), Welcome to my Profile 👀
-> Estudante na UNILAB (Universidade da Integração Internacional da Lusofonia Afro-Brasileira ) 
+> Estudante de Ciencias da computação pela Faculdade Estácio de Sá 
 > 
 > Brasil, Ceará 
 

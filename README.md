@@ -20,11 +20,6 @@
 * Certificação IBM: Concluí o curso “Developing AI Applications with Python and Flask” pela IBM na Coursera, com nota 100%.
 * Publicações: Coautor de estudos sobre o desempenho de programas no Maciço de Baturité, Ceará.
   
---- 
-
-# Objetivos
-Estou sempre em busca de novas oportunidades para aplicar minhas habilidades em projetos que façam a diferença na vida das pessoas, especialmente na interseção entre tecnologia e inovação.
-
 ---
 
 > Brasil, Ceará 

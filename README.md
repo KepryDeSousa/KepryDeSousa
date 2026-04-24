@@ -10,7 +10,7 @@ Atuo na construção de soluções escaláveis, com foco em arquiteturas de IA e
 
 - **Linguagens:** Python, JavaScript, TypeScript
 - **Backend & Arquitetura:** Node.js, FastAPI, Microservices, RAG, Agentic AI
-- **Cloud & DevOps:** AWS ( Lambda, S3, SQS, API Gateway, Bedrock (AI), IAM & Security ),Google Cloud (Cloud Functions, BigQuery, Vertex AI , Google Chat, Firebase) Docker, Observabilidade (Grafana/OpenSearch)
+- **Cloud & DevOps:** AWS ( Lambda, S3, SQS, API Gateway, Bedrock (AI), IAM & Security),Google Cloud (Cloud Functions, BigQuery, Vertex AI , Google Chat, Firebase) Docker, Observabilidade (Grafana/OpenSearch)
 - **Mobile:** React Native / Expo (Criador do **Drifttask**)
 
 ---
